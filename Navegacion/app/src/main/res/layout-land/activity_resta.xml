@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="35dp"
+        android:id="@+id/IDnameResta"
+        tools:text="@string/IDnameResta"
+        android:text="@string/IDnameResta" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_below="@+id/IDnameResta"
+        android:layout_alignStart="@+id/IDnameResta"
+        android:layout_marginTop="23dp"
+        android:id="@+id/IDtxtResta" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/IDtxtResta"
+        android:layout_alignStart="@+id/IDtxtResta"
+        android:layout_marginTop="19dp"
+        android:id="@+id/IDnameResta2"
+        tools:text="@string/IDnameResta2"
+        android:text="@string/IDnameResta2" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_below="@+id/IDnameResta2"
+        android:layout_alignEnd="@+id/IDtxtResta"
+        android:layout_marginTop="23dp"
+        android:id="@+id/IDtxtResta2" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/IDtxtResta2"
+        android:layout_toEndOf="@+id/IDtxtResta"
+        android:layout_marginStart="84dp"
+        android:id="@+id/IDbtnResta"
+        tools:text="@string/IDbtnResta"
+        android:text="@string/IDbtnResta" />
+</RelativeLayout>

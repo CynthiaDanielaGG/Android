@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:text="Suma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDsuma"
+        android:layout_weight="1"
+        android:layout_marginTop="15dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Resta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDresta"
+        android:layout_below="@+id/IDsuma"
+        android:layout_alignStart="@+id/IDsuma" />
+
+    <Button
+        android:text="Multiplicacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDmultiplicacion"
+        android:layout_below="@+id/IDresta"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Division"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDdivision"
+        android:layout_below="@+id/IDmultiplicacion"
+        android:layout_alignStart="@+id/IDresta" />
+
+    <Button
+        android:text="Salir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDsalir"
+        android:layout_below="@+id/IDdivision"
+        android:layout_alignStart="@+id/IDdivision" />
+</RelativeLayout>

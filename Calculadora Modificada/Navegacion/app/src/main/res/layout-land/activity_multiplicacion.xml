@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="Numero 1:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="25dp"
+        android:id="@+id/textView11" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_below="@+id/textView11"
+        android:layout_alignStart="@+id/textView11"
+        android:layout_marginTop="15dp"
+        android:id="@+id/IDtxtMultiplicacion" />
+
+    <TextView
+        android:text="Numero 2:"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/IDtxtMultiplicacion"
+        android:layout_alignStart="@+id/IDtxtMultiplicacion"
+        android:layout_marginTop="15dp"
+        android:id="@+id/textView13" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_below="@+id/textView13"
+        android:layout_alignStart="@+id/textView13"
+        android:layout_marginTop="11dp"
+        android:id="@+id/IDtxtMultiplicacion2" />
+
+    <Button
+        android:text="Realizar Operacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/IDtxtMultiplicacion2"
+        android:layout_toEndOf="@+id/IDtxtMultiplicacion"
+        android:layout_marginStart="98dp"
+        android:id="@+id/IDbtnMultiplicacion" />
+</RelativeLayout>

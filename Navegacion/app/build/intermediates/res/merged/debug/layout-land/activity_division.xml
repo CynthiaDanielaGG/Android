@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/IDnameDivision"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="35dp"
+        android:id="@+id/IDnameDivision" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_marginTop="10dp"
+        android:id="@+id/IDtxtDivision"
+        android:layout_below="@+id/IDnameDivision"
+        android:layout_alignStart="@+id/IDnameDivision" />
+
+    <TextView
+        android:text="@string/IDnameDivision2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/IDtxtDivision"
+        android:layout_alignStart="@+id/IDtxtDivision"
+        android:layout_marginTop="20dp"
+        android:id="@+id/IDnameDivision2" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_below="@+id/IDnameDivision2"
+        android:layout_alignStart="@+id/IDnameDivision2"
+        android:id="@+id/IDtxtDivision2" />
+
+    <Button
+        android:text="@string/IDbtnDivision"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="78dp"
+        android:id="@+id/IDbtnDivision"
+        android:layout_below="@+id/IDtxtDivision"
+        android:layout_toEndOf="@+id/IDtxtDivision2" />
+
+</RelativeLayout>

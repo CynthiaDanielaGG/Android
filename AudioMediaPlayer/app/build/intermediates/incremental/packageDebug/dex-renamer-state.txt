@@ -1,0 +1,7 @@
+#Sun May 21 22:47:27 CDT 2017
+base.0=C\:\\Android\\Proyects\\AudioMediaPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_08f9ca75fb6d698b5ff0f08b9b90cfafaf4845c9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Android\\Proyects\\AudioMediaPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a74d8586fc0bd4acb12d3d871de2f3d2fc8d8634\\classes.dex
+base.1=C\:\\Android\\Proyects\\AudioMediaPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a74d8586fc0bd4acb12d3d871de2f3d2fc8d8634
+file.0=C\:\\Android\\Proyects\\AudioMediaPlayer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_08f9ca75fb6d698b5ff0f08b9b90cfafaf4845c9\\classes.dex

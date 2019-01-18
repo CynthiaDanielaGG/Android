@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Android\\Proyects\\Navegacion\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_division.xml",
+        "source": "C:\\Android\\Proyects\\Navegacion\\app\\src\\main\\res\\layout-land\\activity_division.xml"
+    },
+    {
+        "merged": "C:\\Android\\Proyects\\Navegacion\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_suma.xml",
+        "source": "C:\\Android\\Proyects\\Navegacion\\app\\src\\main\\res\\layout-land\\activity_suma.xml"
+    },
+    {
+        "merged": "C:\\Android\\Proyects\\Navegacion\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\Android\\Proyects\\Navegacion\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\Proyects\\Navegacion\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_multiplicacion.xml",
+        "source": "C:\\Android\\Proyects\\Navegacion\\app\\src\\main\\res\\layout-land\\activity_multiplicacion.xml"
+    },
+    {
+        "merged": "C:\\Android\\Proyects\\Navegacion\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_resta.xml",
+        "source": "C:\\Android\\Proyects\\Navegacion\\app\\src\\main\\res\\layout-land\\activity_resta.xml"
+    }
+]

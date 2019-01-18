@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_main">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDsuma"
+        android:layout_weight="1"
+        android:layout_marginTop="15dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        tools:text="@string/IDsuma"
+        android:text="@string/IDsuma" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDresta"
+        android:layout_below="@+id/IDsuma"
+        android:layout_alignStart="@+id/IDsuma"
+        tools:text="@string/IDresta"
+        android:text="@string/IDresta" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDmultiplicacion"
+        android:layout_below="@+id/IDresta"
+        android:layout_centerHorizontal="true"
+        tools:text="@string/IDmultiplicacion"
+        android:text="@string/IDmultiplicacion" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDdivision"
+        android:layout_below="@+id/IDmultiplicacion"
+        android:layout_alignStart="@+id/IDresta"
+        tools:text="@string/IDdivision"
+        android:text="@string/IDdivision" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/IDsalir"
+        android:layout_below="@+id/IDdivision"
+        android:layout_alignStart="@+id/IDdivision"
+        tools:text="@string/IDsalir"
+        android:text="@string/IDsalir" />
+</RelativeLayout>

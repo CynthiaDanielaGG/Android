@@ -1,0 +1,7 @@
+#Mon May 01 14:11:56 CDT 2017
+base.0=C\:\\Android\\Proyects\\Canvas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0d98e4aaa2cf2888cd55686dbdf19d8ade90811a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Android\\Proyects\\Canvas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e2984a8b05fb7f876836312796e4e538420529ea\\classes.dex
+base.1=C\:\\Android\\Proyects\\Canvas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_e2984a8b05fb7f876836312796e4e538420529ea
+file.0=C\:\\Android\\Proyects\\Canvas\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0d98e4aaa2cf2888cd55686dbdf19d8ade90811a\\classes.dex

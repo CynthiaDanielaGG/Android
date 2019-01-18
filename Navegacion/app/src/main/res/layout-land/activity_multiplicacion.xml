@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="25dp"
+        android:id="@+id/IDnameMultiplicacion"
+        tools:text="@string/IDnameMultiplicacion"
+        android:text="@string/IDnameMultiplicacion" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_below="@+id/IDnameMultiplicacion"
+        android:layout_alignStart="@+id/IDnameMultiplicacion"
+        android:layout_marginTop="15dp"
+        android:id="@+id/IDtxtMultiplicacion" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/IDtxtMultiplicacion"
+        android:layout_alignStart="@+id/IDtxtMultiplicacion"
+        android:layout_marginTop="15dp"
+        android:id="@+id/IDnameMultiplicacion2"
+        tools:text="@string/IDnameMultiplicacion2"
+        android:text="@string/IDnameMultiplicacion2" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:layout_below="@+id/IDnameMultiplicacion2"
+        android:layout_alignStart="@+id/IDnameMultiplicacion2"
+        android:layout_marginTop="11dp"
+        android:id="@+id/IDtxtMultiplicacion2" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/IDtxtMultiplicacion2"
+        android:layout_toEndOf="@+id/IDtxtMultiplicacion"
+        android:layout_marginStart="98dp"
+        android:id="@+id/IDbtnMultiplicacion"
+        tools:text="@string/IDbtnMultiplicacion"
+        android:text="@string/IDbtnMultiplicacion" />
+</RelativeLayout>

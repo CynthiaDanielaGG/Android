@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b499b7fff33bf843bf3f2e971a97484990181f0">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_22a9900778c005b637ed928d0f3a22a558906248\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_aa77e046277b3efd364c0b955e6dbb97fe797fd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_ba8df7d2a5e19617afa7b66d5ba0380720fb367a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_7843639f477d0a3def80e2d25ecfb7dddb2058c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_ecb797d7d99881f484a160185bad64ac9b8a1f03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_5a1b378637ff37bba3f6b2bbd4e46b4a99185cb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_e8f264ffb9c90960719b7d0905df39eb0945341c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb3448808c390cc20980c3409ff345ee04454562">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_68f229f0bdbf95e367327de78e74f8057cd7c077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Cynthia\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_21dd92379e2335fd3d1e7118223bca5d423258e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_b75237ea3163054bc96d041cf99f88946d5956e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_fb739e59aa4cc30c9313e752e6e3bc5f76245963\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_125053315d3b9007f589dcfc4316963d0a595a10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_7730de4ec268734b4861636d7f719bdd5ffce938\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_9e5b517b9e879b5015d00848d0e686f12b08e433\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Proyects\HolaMundo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Android\Proyects\HolaMundo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_c2cb258bec8eb66f7f526ced43caa8519bf8765b\classes.dex" />
+    </item>
+
+</items>

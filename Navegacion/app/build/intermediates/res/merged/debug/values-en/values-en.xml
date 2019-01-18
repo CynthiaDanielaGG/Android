@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IDbtnDivision">Perform operation</string>
+    <string name="IDbtnMultiplicacion">Perform operation</string>
+    <string name="IDbtnResta">Perform operation</string>
+    <string name="IDbtnSuma">Perform operation</string>
+    <string name="IDdivision">Division</string>
+    <string name="IDmultiplicacion">Multiplication</string>
+    <string name="IDnameDivision">Number 1:</string>
+    <string name="IDnameDivision2">Number 2:</string>
+    <string name="IDnameMultiplicacion">Number 1:</string>
+    <string name="IDnameMultiplicacion2">Number 2:</string>
+    <string name="IDnameResta">Number 1:</string>
+    <string name="IDnameResta2">Number 2:</string>
+    <string name="IDnameSuma">Number 1:</string>
+    <string name="IDnameSuma2">Number 2:</string>
+    <string name="IDresta">Subtraction</string>
+    <string name="IDsalir">Exit</string>
+    <string name="IDsuma">Addition</string>
+    <string name="app_name">Navegation</string>
+</resources>

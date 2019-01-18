@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Navegacion</string>
+    <string name="IDsuma">Suma</string>
+    <string name="IDresta">Resta</string>
+    <string name="IDdivision">Division</string>
+    <string name="IDmultiplicacion">Multiplicacion</string>
+    <string name="IDsalir">Salir</string>
+    <string name="IDnameSuma">Numero 1:</string>
+    <string name="IDnameSuma2">Numero 2:</string>
+    <string name="IDbtnSuma">Realizar Operacion</string>
+    <string name="IDnameResta">Numero 1:</string>
+    <string name="IDnameResta2">Numero 2:</string>
+    <string name="IDbtnResta">Realizar Operacion</string>
+    <string name="IDnameMultiplicacion">Numero 1:</string>
+    <string name="IDnameMultiplicacion2">Numero 2:</string>
+    <string name="IDbtnMultiplicacion">Realizar Operacion</string>
+    <string name="IDnameDivision">Numero 1:</string>
+    <string name="IDnameDivision2">Numero 2:</string>
+    <string name="IDbtnDivision">Realizar Operacion</string>
+
+</resources>
